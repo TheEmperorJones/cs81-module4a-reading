@@ -1,4 +1,4 @@
-//https://github.com/TheEmperorJones/cs81-module4a-reading
+//https://github.com/TheEmperorJones/cs81-module4a-reviewtracker
 
 // Weekly reading log
 const readingLog = [  // This creates a binding of readingLog to an array of initial data.
